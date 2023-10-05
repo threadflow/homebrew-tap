@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class CloudflareST < Formula
+class Cloudflarest < Formula
   desc "Simple tool to find best Cloudflare CDN ip addresses."
   homepage "https://github.com/XIU2/CloudflareSpeedTest"
   url "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.2.4/CloudflareST_darwin_amd64.zip"
