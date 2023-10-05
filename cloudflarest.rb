@@ -17,7 +17,7 @@ class Cloudflarest < Formula
     # system "./configure", *std_configure_args, "--disable-silent-rules"
     # system "make", "test"
     # system "cmake", "-S", ".", "-B", "build", *std_cmake_args
-    bin.install "CloudflareST"
+    bin.install "CloudflareST" => "cloudflarest"
   end
 
   # test do
